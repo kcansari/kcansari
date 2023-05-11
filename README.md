@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @kcansari
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development, especially backend side.
-
-
+- 🌱 I’m currently learning web development as a full-stack
