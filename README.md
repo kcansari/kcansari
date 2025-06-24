@@ -31,8 +31,6 @@ Backend-focused Software Engineer with 2 years of experience. I define myself a 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kcansari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcansari&layout=donut&theme=tokyonight&hide_border=true)
 
