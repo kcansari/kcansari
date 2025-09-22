@@ -1,9 +1,9 @@
-# 👋 Hi, I'm @kcansari
+# Hi, I'm @kcansari
 
-## 🚀 About Me
+## About Me
 Backend-focused Software Engineer with 2 years of experience. I define myself a motivated engineer, who tries to learn the fundamentals and underlying elements of technologies. I enjoy solving challenging problems; I am curious and enthusiastic about collaborating in a team environment.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,36 +41,8 @@ Backend-focused Software Engineer with 2 years of experience. I define myself a 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcansari&layout=donut&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kcansari&color=58A6FF&style=for-the-badge)
-
-</div>
-
-## 🎯 What I'm Currently Up To
-
-<div align="center">
-
-```text
-🔭 Building scalable backend systems with Node.js, NestJS & Go
-🌱 Exploring microservices architecture and distributed systems  
-💡 Deep diving into system design and performance optimization
-```
-
-</div>
-
-## 💼 Experience Highlights
-
-- 🎓 **2+ years** of backend development experience
-- 📊 **Database Optimization** with MySQL, MongoDB & Redis
-- 🔄 **Event-Driven Architecture** using Kafka
-- 🔍 **Search Solutions** with Elasticsearch
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -79,5 +51,6 @@ Backend-focused Software Engineer with 2 years of experience. I define myself a 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kcansari0@gmail.com)
 
 </div>
+
 
 </div>
