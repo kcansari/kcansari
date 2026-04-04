@@ -1,7 +1,7 @@
 # Hi, I'm @kcansari
 
 ## About Me
-Backend-focused Software Engineer with 2 years of experience. I define myself a motivated engineer, who tries to learn the fundamentals and underlying elements of technologies. I enjoy solving challenging problems; I am curious and enthusiastic about collaborating in a team environment.
+I define myself a motivated engineer, who tries to learn the fundamentals and underlying elements of technologies. I enjoy solving challenging problems; I am curious and enthusiastic about collaborating in a team environment.
 
 ## Technologies & Tools
 
